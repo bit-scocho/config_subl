@@ -1,7 +1,6 @@
 // Settings in here override those in "Default/Preferences.sublime-settings",
 // and are overridden in turn by syntax-specific settings.
 
-
 //MI CONFIGURACION:
 
 //Ubicación > /home/un0_c3r0/.config/sublime-text/Packages/User/
@@ -13,7 +12,7 @@
 	"trim_trailing_white_space_on_save" : "all",
 	"auto_hide_menu" : false,
 	"theme": "Adaptive.sublime-theme",
-	"color_scheme": "Packages/Color Scheme - Default/Mariana.sublime-color-scheme",
+	"color_scheme": "Packages/Monokai++/themes/Monokai++.tmTheme",
 	"ignored_packages":
 	[
 		"Vintage",
