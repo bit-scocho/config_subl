@@ -3,7 +3,7 @@
 
 //MI CONFIGURACION:
 
-//Ubicación > /home/un0_c3r0/.config/sublime-text/Packages/User/
+//Ubicación > /home/<USUARIO>/.config/sublime-text/Packages/User/
 
 {
 	"highlight_line" : true,
